@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-03-08T11:05:33 IST" name="Default suite" finished-at="2023-03-08T11:06:34 IST" duration-ms="60823">
+    <groups>
+    </groups>
+    <test started-at="2023-03-08T11:05:33 IST" name="Default test" finished-at="2023-03-08T11:06:34 IST" duration-ms="60823">
+      <class name="basics.FirstTestNG">
+        <test-method signature="loadDiver()[pri:0, instance:basics.FirstTestNG@f736069]" started-at="2023-03-08T11:05:34 IST" name="loadDiver" finished-at="2023-03-08T11:06:34 IST" duration-ms="60657" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loadDiver -->
+      </class> <!-- basics.FirstTestNG -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
